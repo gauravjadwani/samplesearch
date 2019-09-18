@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+
+.ImageContainer{
+  margin-right: 2%;
+}
+.HeroTitleContainer{
+  text-align: center;
+  margin: 1%;
+}
+.CutomRow{
+  margin-top: 10px;
+}
+.QuoteContainer{
+  margin-top: 10px;
+}
